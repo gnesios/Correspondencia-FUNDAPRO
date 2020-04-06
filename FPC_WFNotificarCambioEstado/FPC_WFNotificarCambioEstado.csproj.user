@@ -1,0 +1,18 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{F8810EC1-6754-47FC-A15F-DFABD2E3FA90}" xmlns="">
+        <DisplayName>Notificar cambio estado</DisplayName>
+        <SiteURL>http://gserlab:1234/</SiteURL>
+        <ListURL>http://gserlab:1234/Lists/Correspondencia%20de%20Entrada%20FundaPro/AllItems.aspx</ListURL>
+        <TargetList Id="{af538009-4c6f-45d6-b75d-9a7042a8e3e3}">Correspondencia de Entrada Funda-Pro</TargetList>
+        <HistoryList Id="{fce546b4-0068-41af-9b1d-cd42a5d602e8}">Workflow History</HistoryList>
+        <TaskList Id="{a9aca55b-8e61-4a6c-8ccb-78b541c3f5cc}">Tareas</TaskList>
+        <AutoAssociate>true</AutoAssociate>
+        <ManualStart>false</ManualStart>
+        <StartOnCreate>true</StartOnCreate>
+        <StartOnChange>true</StartOnChange>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

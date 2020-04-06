@@ -1,0 +1,7 @@
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarCambioEstado\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarCambioEstado\bin\Debug\feature.xml
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarCambioEstado\bin\Debug\workflow.xml
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarCambioEstado\bin\Debug\FPC_WFNotificarCambioEstado.dll
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarCambioEstado\bin\Debug\FPC_WFNotificarCambioEstado.pdb
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarCambioEstado\obj\Debug\FPC_WFNotificarCambioEstado.dll
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarCambioEstado\obj\Debug\FPC_WFNotificarCambioEstado.pdb

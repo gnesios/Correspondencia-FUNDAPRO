@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Feature  Id="df6f2ce6-d9ce-4ca8-be86-9fa8f07cc63c"
+      Title="Flujo Notificación de Cambio de Estado de Correspondencia"
+      Description="Flujo de trabajo de notificación de cambio de estado de correspondencia."
+      Version="1.0.0.0"
+      Scope="Site"
+      xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="workflow.xml" />
+  </ElementManifests>
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+    <Property Key="RegisterForms" Value="*.xsn" />
+  </Properties>
+</Feature>

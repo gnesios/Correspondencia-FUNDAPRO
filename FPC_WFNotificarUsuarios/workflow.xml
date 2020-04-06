@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Workflow
+     Name="Notificación de Usuarios"
+     Description="Flujo de notificación de nueva correspondencia."
+     Id="16896581-17a2-4004-91bb-6c40f1f1c397"
+     CodeBesideClass="FPC_WFNotificarUsuarios.FlujoNotificacion"
+     CodeBesideAssembly="FPC_WFNotificarUsuarios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fa52ae7fed3d803b">
+
+    <Categories/>
+    <MetaData>
+      <StatusPageUrl>_layouts/WrkStat.aspx</StatusPageUrl>
+    </MetaData>
+  </Workflow>
+</Elements>

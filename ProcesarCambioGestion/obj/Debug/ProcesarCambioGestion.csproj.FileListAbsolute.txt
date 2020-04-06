@@ -1,0 +1,5 @@
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\ProcesarCambioGestion\bin\Debug\ProcesarCambioGestion.exe
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\ProcesarCambioGestion\bin\Debug\ProcesarCambioGestion.pdb
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\ProcesarCambioGestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\ProcesarCambioGestion\obj\Debug\ProcesarCambioGestion.exe
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\ProcesarCambioGestion\obj\Debug\ProcesarCambioGestion.pdb

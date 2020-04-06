@@ -1,0 +1,10 @@
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarUsuarios\bin\Debug\feature.xml
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarUsuarios\bin\Debug\workflow.xml
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarUsuarios\bin\Debug\FPC_WFNotificarUsuarios.dll
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarUsuarios\bin\Debug\FPC_WFNotificarUsuarios.pdb
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarUsuarios\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarUsuarios\obj\Debug\FPC_WFNotificarUsuarios.dll
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WFNotificarUsuarios\obj\Debug\FPC_WFNotificarUsuarios.pdb
+H:\Funda-Pro\FUNDAPROCorrespondencia 20110126\FPC_WFNotificarUsuarios\obj\Debug\ResolveAssemblyReference.cache
+H:\Funda-Pro\FUNDAPROCorrespondencia 20110126\FPC_WFNotificarUsuarios\obj\Debug\FPC_WFNotificarUsuarios.dll
+H:\Funda-Pro\FUNDAPROCorrespondencia 20110126\FPC_WFNotificarUsuarios\obj\Debug\FPC_WFNotificarUsuarios.pdb

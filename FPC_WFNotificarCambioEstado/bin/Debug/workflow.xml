@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Workflow
+     Name="Notificación de Cambio de Estado"
+     Description="Flujo de notificación de cambio de estado de correspondencia."
+     Id="4b96441c-8def-464a-a666-fe9592cdba71"
+     CodeBesideClass="FPC_WFNotificarCambioEstado.FlujoNotificacion"
+     CodeBesideAssembly="FPC_WFNotificarCambioEstado, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fa52ae7fed3d803b">
+
+    <Categories/>
+    <MetaData>
+      <StatusPageUrl>_layouts/WrkStat.aspx</StatusPageUrl>
+    </MetaData>
+  </Workflow>
+</Elements>

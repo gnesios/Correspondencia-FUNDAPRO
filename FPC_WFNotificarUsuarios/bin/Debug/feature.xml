@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Feature  Id="b01941b1-e228-4391-981e-ac2a274c04a4"
+      Title="Flujo Notificación de Correspondencia"
+      Description="Flujo de trabajo de notificación de nueva correspondencia."
+      Version="1.0.0.0"
+      Scope="Site"
+      xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="workflow.xml" />
+  </ElementManifests>
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+    <Property Key="RegisterForms" Value="*.xsn" />
+  </Properties>
+</Feature>

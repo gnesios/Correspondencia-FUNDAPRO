@@ -1,0 +1,5 @@
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WPEntregarCorrespondencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WPEntregarCorrespondencia\bin\Debug\FPC_WPEntregarCorrespondencia.dll
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WPEntregarCorrespondencia\bin\Debug\FPC_WPEntregarCorrespondencia.pdb
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WPEntregarCorrespondencia\obj\Debug\FPC_WPEntregarCorrespondencia.dll
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_WPEntregarCorrespondencia\obj\Debug\FPC_WPEntregarCorrespondencia.pdb
