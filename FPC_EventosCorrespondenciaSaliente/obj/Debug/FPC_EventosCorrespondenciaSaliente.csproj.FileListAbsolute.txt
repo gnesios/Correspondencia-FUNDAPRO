@@ -1,0 +1,5 @@
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaSaliente\bin\Debug\FPC_EventosCorrespondenciaSaliente.dll
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaSaliente\bin\Debug\FPC_EventosCorrespondenciaSaliente.pdb
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaSaliente\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaSaliente\obj\Debug\FPC_EventosCorrespondenciaSaliente.dll
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaSaliente\obj\Debug\FPC_EventosCorrespondenciaSaliente.pdb

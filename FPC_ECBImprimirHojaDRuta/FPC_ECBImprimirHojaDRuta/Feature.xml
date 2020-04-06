@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Feature Id="{EE2ADA32-DBD7-4531-8C9C-796A780BB614}"
+         Title="ECB Imprimir Hoja de Ruta"
+         Description="Imprime la hoja de ruta de la correspondencia elegida."
+         Scope="Web"
+         xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="ECBImprimirHojaDRuta.xml"/>
+  </ElementManifests>
+</Feature>

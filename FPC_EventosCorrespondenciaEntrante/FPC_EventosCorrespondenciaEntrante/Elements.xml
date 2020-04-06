@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="100">
+    <Receiver>
+      <Name>EventoCorrespondenciaEntranteItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <SequenceNumber>20666</SequenceNumber>
+      <Assembly>FPC_EventosCorrespondenciaEntrante, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fa52ae7fed3d803b</Assembly>
+      <Class>FPC_EventosCorrespondenciaEntrante.EventosCorrespondenciaEntrante</Class>
+      <Data></Data>
+      <Filter></Filter>
+    </Receiver>
+    <Receiver>
+      <Name>EventoCorrespondenciaEntranteItemUpdating</Name>
+      <Type>ItemUpdating</Type>
+      <SequenceNumber>20666</SequenceNumber>
+      <Assembly>FPC_EventosCorrespondenciaEntrante, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fa52ae7fed3d803b</Assembly>
+      <Class>FPC_EventosCorrespondenciaEntrante.EventosCorrespondenciaEntrante</Class>
+      <Data></Data>
+      <Filter></Filter>
+    </Receiver>
+    <Receiver>
+      <Name>EventoCorrespondenciaEntranteItemUpdating</Name>
+      <Type>ItemUpdated</Type>
+      <SequenceNumber>20666</SequenceNumber>
+      <Assembly>FPC_EventosCorrespondenciaEntrante, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fa52ae7fed3d803b</Assembly>
+      <Class>FPC_EventosCorrespondenciaEntrante.EventosCorrespondenciaEntrante</Class>
+      <Data></Data>
+      <Filter></Filter>
+    </Receiver>
+  </Receivers>
+</Elements>

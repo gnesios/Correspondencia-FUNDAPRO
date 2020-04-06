@@ -1,0 +1,7 @@
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_IniciarCorrespondenciaEnX\bin\Debug\FPC_IniciarCorrespondenciaEnX.exe
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_IniciarCorrespondenciaEnX\bin\Debug\FPC_IniciarCorrespondenciaEnX.pdb
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_IniciarCorrespondenciaEnX\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_IniciarCorrespondenciaEnX\obj\Debug\FPC_IniciarCorrespondenciaEnX.exe
+C:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_IniciarCorrespondenciaEnX\obj\Debug\FPC_IniciarCorrespondenciaEnX.pdb
+d:\Users\rvargas.GNET\Documents\Proyectos\Funda-Pro\FUNDAPROCorrespondencia 20110208\FPC_IniciarCorrespondenciaEnX\obj\Debug\FPC_IniciarCorrespondenciaEnX.exe
+d:\Users\rvargas.GNET\Documents\Proyectos\Funda-Pro\FUNDAPROCorrespondencia 20110208\FPC_IniciarCorrespondenciaEnX\obj\Debug\FPC_IniciarCorrespondenciaEnX.pdb

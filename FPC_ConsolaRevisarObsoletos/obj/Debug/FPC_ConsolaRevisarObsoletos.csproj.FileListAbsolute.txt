@@ -1,0 +1,9 @@
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_ConsolaRevisarObsoletos\bin\Debug\FPC_ConsolaRevisarObsoletos.exe.config
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_ConsolaRevisarObsoletos\bin\Debug\FPC_ConsolaRevisarObsoletos.exe
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_ConsolaRevisarObsoletos\bin\Debug\FPC_ConsolaRevisarObsoletos.pdb
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_ConsolaRevisarObsoletos\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_ConsolaRevisarObsoletos\obj\Debug\FPC_ConsolaRevisarObsoletos.exe
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_ConsolaRevisarObsoletos\obj\Debug\FPC_ConsolaRevisarObsoletos.pdb
+d:\Users\rvargas.GNET\Documents\Proyectos\Funda-Pro\FUNDAPROCorrespondencia 20110208\FPC_ConsolaRevisarObsoletos\bin\Debug\FPC_ConsolaRevisarObsoletos.exe.config
+d:\Users\rvargas.GNET\Documents\Proyectos\Funda-Pro\FUNDAPROCorrespondencia 20110208\FPC_ConsolaRevisarObsoletos\obj\Debug\FPC_ConsolaRevisarObsoletos.exe
+d:\Users\rvargas.GNET\Documents\Proyectos\Funda-Pro\FUNDAPROCorrespondencia 20110208\FPC_ConsolaRevisarObsoletos\obj\Debug\FPC_ConsolaRevisarObsoletos.pdb

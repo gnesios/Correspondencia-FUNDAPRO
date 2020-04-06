@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Feature Id="{7F4C6A25-7DB0-4805-9B0B-253456554894}"
+         Title="Eventos Correspondencia Saliente"
+         Description="Maneja los eventos en listas de Correspondencia Saliente."
+         Scope="Web"
+         xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Elements.xml"/>
+  </ElementManifests>
+</Feature>

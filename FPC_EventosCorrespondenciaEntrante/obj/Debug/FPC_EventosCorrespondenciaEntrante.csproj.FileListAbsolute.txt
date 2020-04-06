@@ -1,0 +1,10 @@
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntranteFP\bin\Debug\FPC_EventosCorrespondenciaEntrante.dll
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntranteFP\bin\Debug\FPC_EventosCorrespondenciaEntrante.pdb
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntranteFP\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntranteFP\obj\Debug\FPC_EventosCorrespondenciaEntrante.dll
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntranteFP\obj\Debug\FPC_EventosCorrespondenciaEntrante.pdb
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntrante\bin\Debug\FPC_EventosCorrespondenciaEntrante.dll
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntrante\bin\Debug\FPC_EventosCorrespondenciaEntrante.pdb
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntrante\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntrante\obj\Debug\FPC_EventosCorrespondenciaEntrante.dll
+c:\Documents and Settings\spuser\My Documents\Visual Studio 2008\Projects\FUNDAPROCorrespondencia\FPC_EventosCorrespondenciaEntrante\obj\Debug\FPC_EventosCorrespondenciaEntrante.pdb

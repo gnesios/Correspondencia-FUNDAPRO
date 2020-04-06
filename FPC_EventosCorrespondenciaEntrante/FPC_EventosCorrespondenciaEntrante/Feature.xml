@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Feature Id="{EAF657D7-231A-453d-BB1B-E557AEDDFAE4}"
+         Title="Eventos Correspondencia Entrante"
+         Description="Maneja los eventos en listas de Correspondencia Entrante."
+         Scope="Web"
+         xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Elements.xml"/>
+  </ElementManifests>
+</Feature>

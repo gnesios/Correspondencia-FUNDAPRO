@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+    Id="ECBItemID"
+    Title="Imprimir Hoja de Ruta"
+    Location="EditControlBlock"
+    RegistrationType="ContentType"
+    RegistrationId="0x01005D769FDCE5F7F645B0480BE58AC31EBF"
+    ImageUrl="/_layouts/images/FAX.GIF"
+    Rights="AddListItems">
+      <UrlAction Url="~site/_layouts/PaginasFPC/ImprimirHojaDRuta.aspx?ItemId={ItemId}&amp;ListId={ListId}"/>
+  </CustomAction>
+</Elements>
